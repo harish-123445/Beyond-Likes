@@ -6,9 +6,8 @@ Instagram Reach Analysis is a project focused on analyzing Instagram reach data 
 
 ## Project Structure
 
-- `Instagram Reach Analysis.ipynb`: Jupyter Notebook containing the main analysis code.
-- `data/`: Folder containing the dataset used for analysis.
-- `plots/`: Folder containing visualizations and plots generated during the analysis.
+- `Reach.ipynb`: Jupyter Notebook containing the main analysis code.
+- `Instagram-Reach`: File containing the dataset used for analysis.
 - `README.md`: Project documentation (you're reading it right now).
 
 ## Analysis Steps
@@ -25,7 +24,7 @@ Instagram Reach Analysis is a project focused on analyzing Instagram reach data 
    - Create visualizations to illustrate Instagram reach trends.
    - Generate plots for daily, weekly, and monthly reach patterns.
 
-4. **ARIMA Forecasting:**
+4. **SARIMA Forecasting:**
    - Implement ARIMA (AutoRegressive Integrated Moving Average) model for forecasting.
    - Evaluate the accuracy of the forecasting model.
 
@@ -38,19 +37,14 @@ Instagram Reach Analysis is a project focused on analyzing Instagram reach data 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/instagram-reach-analysis.git
-
-2. Install required dependancies  
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the Jupyter Notebook:
+   git clone https://github.com/your-username/Beyond-Likes.git
+2. Run the Jupyter Notebook:
    ```bash
    jupyter notebook "Instagram Reach Analysis.ipynb"
 
 ## Gallery
 
-View the gallery of plots in the `plots/` directory for detailed visualizations. Here are some key visualizations:
+View the gallery of plots in Index.html file  for detailed visualizations. Here are some key visualizations:
 
 ### 1. Reach Plot
    ![Reach Plot](https://github.com/kaifshaheemj/Instagram_Reach/raw/main/Instagram%20Reach%20Analysis%20Images_files/Reach_plot.png)
